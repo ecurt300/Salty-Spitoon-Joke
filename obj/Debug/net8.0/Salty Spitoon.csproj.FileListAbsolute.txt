@@ -1,0 +1,14 @@
+C:\Users\Edward\Documents\Code Louisville\Joke Project\Salty Spitoon\bin\Debug\net8.0\Salty Spitoon.exe
+C:\Users\Edward\Documents\Code Louisville\Joke Project\Salty Spitoon\bin\Debug\net8.0\Salty Spitoon.deps.json
+C:\Users\Edward\Documents\Code Louisville\Joke Project\Salty Spitoon\bin\Debug\net8.0\Salty Spitoon.runtimeconfig.json
+C:\Users\Edward\Documents\Code Louisville\Joke Project\Salty Spitoon\bin\Debug\net8.0\Salty Spitoon.dll
+C:\Users\Edward\Documents\Code Louisville\Joke Project\Salty Spitoon\bin\Debug\net8.0\Salty Spitoon.pdb
+C:\Users\Edward\Documents\Code Louisville\Joke Project\Salty Spitoon\obj\Debug\net8.0\Salty Spitoon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Edward\Documents\Code Louisville\Joke Project\Salty Spitoon\obj\Debug\net8.0\Salty Spitoon.AssemblyInfoInputs.cache
+C:\Users\Edward\Documents\Code Louisville\Joke Project\Salty Spitoon\obj\Debug\net8.0\Salty Spitoon.AssemblyInfo.cs
+C:\Users\Edward\Documents\Code Louisville\Joke Project\Salty Spitoon\obj\Debug\net8.0\Salty Spitoon.csproj.CoreCompileInputs.cache
+C:\Users\Edward\Documents\Code Louisville\Joke Project\Salty Spitoon\obj\Debug\net8.0\Salty Spitoon.dll
+C:\Users\Edward\Documents\Code Louisville\Joke Project\Salty Spitoon\obj\Debug\net8.0\refint\Salty Spitoon.dll
+C:\Users\Edward\Documents\Code Louisville\Joke Project\Salty Spitoon\obj\Debug\net8.0\Salty Spitoon.pdb
+C:\Users\Edward\Documents\Code Louisville\Joke Project\Salty Spitoon\obj\Debug\net8.0\Salty Spitoon.genruntimeconfig.cache
+C:\Users\Edward\Documents\Code Louisville\Joke Project\Salty Spitoon\obj\Debug\net8.0\ref\Salty Spitoon.dll
